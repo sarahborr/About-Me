@@ -1,4 +1,4 @@
-# About-Me
+# About Me
  * Name: Sarah Borrelli 
  * Grade: 12
  ![Image here](url)
@@ -19,4 +19,5 @@ I am the oldest sibling. My youngest sister is a 7th grader who goes to Plouffe,
 # Favorite Artists
 * [Arleebean]() 
 * [Marco Bucci]()
-* []()  
+* [Ms1sharklee]()  
+* [Subjectivley]()
