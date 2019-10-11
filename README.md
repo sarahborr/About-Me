@@ -2,7 +2,7 @@
  * Name: Sarah Borrelli 
  * Grade: 12
  
-![]()
+![self-portrait](https://i.imgur.com/giqDkr3.png)
 
 # Summary
 Hello! My name is Sarah. I am a 17 year old senior, currently taking classes such as AP chemisty and sociology. In my free time I like to draw and. on occasion, watch Netflix. My favorite videogames are [Overwatch](https://playoverwatch.com/en-us/) and [Minecraft](https://www.minecraft.net/en-us/), but I do also play a lot of 2048 and [Tetris](https://tetris.com/play-tetris). 
