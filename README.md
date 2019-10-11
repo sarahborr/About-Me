@@ -11,8 +11,10 @@ I am the oldest sibling. My youngest sister is a 7th grader who goes to Plouffe,
 * Python
 * Cracking bad jokes
 * Editing images 
+* Baking 
 # Hobbies
-* Drawing/Painting
+* Drawing
+* Painting
 * Playing video games
 * Watching [Youtube]() 
 
